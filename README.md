@@ -1,5 +1,7 @@
 # React js frontend task
 
+#Deploay link :# https://incw-table-task.netlify.app/
+
 1. You should not use nodejs
 2. The project is simple html page with reactjs
 you should use
